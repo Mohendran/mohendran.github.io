@@ -1,0 +1,30 @@
+[
+	{
+		"dates": "Jun 2023 · Aug 2024",
+		"role": "Senior Front-end Developer",
+		"company": "Happyfox",
+		"description": "Responsible for brainstorming ideas and developing UI for the products. Adding AI Features to a Customer Support Platform",
+		"logo": "/assets/images/experiences/happyfox.png"
+	},
+	{
+		"dates": "Jan 2022 · April 2023",
+		"role": "Associate Product Owner",
+		"company": "Calibraint",
+		"description": "Sales CRM Product - Managing a cross-functional team. Also worked on a few projects for clients",
+		"logo": "/assets/images/experiences/calibraint.jpeg"
+	},
+	{
+		"dates": "May 2018 · Jan 2022",
+		"role": "Tech Lead",
+		"company": "Calibraint",
+		"description": "Architecting and Developing Frontend for new products, Managing a team of 5+ developers",
+		"logo": "/assets/images/experiences/calibraint.jpeg"
+	},
+	{
+		"dates": "Aug 2016 · May 2018",
+		"role": "JS Developer",
+		"company": "Calibraint",
+		"description": "Work on Client Projects using Angular, React, Redux. Worked in an Agile Environment",
+		"logo": "/assets/images/experiences/calibraint.jpeg"
+	}
+]

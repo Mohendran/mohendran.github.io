@@ -1,0 +1,15 @@
+[
+
+	{
+		"name": "DealAmigo.io",
+		"description": "Digital Sales Room that helps sales people to identify interested leads and close deals faster.",
+		"image": "/assets/images/projects/dealamigo.png",
+		"url": "https://dealamigo.io"
+	},
+	{
+		"name": "Summr.io",
+		"description": "Summarize Medium Articles in a single click.",
+		"image": "/assets/images/projects/summr.png",
+		"url": "https://summr.io/"
+	}
+]
