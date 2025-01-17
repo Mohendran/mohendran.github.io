@@ -4,16 +4,16 @@
 		"url": "/"
 	},
 	{
+		"name": "About",
+		"url": "/about"
+	},
+	{
 		"name": "Blog",
 		"url": "/posts"
 	},
 	{
 		"name": "Side Projects",
 		"url": "/projects"
-	},
-	{
-		"name": "About",
-		"url": "/about"
 	},
 	{
 		"name": "Resume",
