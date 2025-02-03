@@ -24,13 +24,11 @@ import PostsLoop from "../posts-loop.astro";
         <PostsLoop count="3" />
 
         <div class="flex items-center justify-center w-full py-5">
-          <Button text="View All My Writing" link="/posts" />
+          <Button text="View All My Writings" link="/posts" />
         </div>
       </div>
-      <!-- <div class="w-full mt-10 md:w-1/3 md:mt-0">
-        <form
-          method="get"
-          action={feed}
+      <div class="w-full mt-10 md:w-1/3 md:mt-0">
+        <div
           class="p-6 border border-dashed rounded-2xl border-neutral-300 dark:border-neutral-600"
         >
           <div class="relative flex items-center space-x-2">
@@ -50,38 +48,22 @@ import PostsLoop from "../posts-loop.astro";
             <h2
               class="flex text-sm font-semibold text-neutral-900 dark:text-neutral-100"
             >
-              Subscribe my blog
+              Explore My Medium Articles
             </h2>
           </div>
           <p class="mt-2 text-sm text-neutral-600 dark:text-neutral-400">
-            Get my blog updates via <a
-              class="font-bold"
-              href={`https://feedly.com/i/subscription/feed%2F${encodeURIComponent(feed)}`}
-              >Feedly</a
-            >, <a
-              class="font-bold"
-              href={`https://www.inoreader.com/feed/${encodeURIComponent(feed)}`}
-              >Inoreader</a
-            > or <a class="font-bold" href={feed}>RSS</a>.
+            Discover my latest creative works and stories.
           </p>
-          <div class="flex flex-col items-center w-full mt-4 space-y-3">
-            <input
-              type="url"
-              readonly
-              placeholder="Email address"
-              aria-label="Email address"
-              required=""
-              value={feed}
-              class="w-full h-10 px-3 text-sm border border-dashed rounded-md focus:ring-0 focus:outline-black border-neutral-400 dark:border-neutral-600 dark:bg-neutral-800 dark:placeholder-neutral-400 dark:text-white"
+          <div class="flex flex-col items-center w-full space-y-3">
+            <Button
+              class="block w-full px-4 py-2 mt-2 text-xs font-semibold text-center duration-300 ease-out border rounded bg-neutral-900 dark:bg-neutral-100 dark:hover:border-neutral-300 dark:text-neutral-800 dark:hover:bg-neutral-950 dark:hover:text-neutral-100 text-neutral-100 border-neutral-900 hover:bg-white hover:text-neutral-900"
+              link="https://mohendran.medium.com"
+              target="_blank"
+              text="Subscribe for More Stories"
             />
-            <button
-              type="submit"
-              class="block w-full px-4 py-2 mt-5 text-xs font-semibold text-center duration-300 ease-out border rounded bg-neutral-900 dark:bg-neutral-100 dark:hover:border-neutral-300 dark:text-neutral-800 dark:hover:bg-neutral-950 dark:hover:text-neutral-100 text-neutral-100 border-neutral-900 hover:bg-white hover:text-neutral-900"
-              >Subscribe</button
-            >
           </div>
-        </form>
-      </div> -->
+        </div>
+      </div>
     </div>
   </div>
 </section>

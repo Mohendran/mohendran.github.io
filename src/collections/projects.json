@@ -11,5 +11,11 @@
 		"description": "Summarize Medium Articles in a single click.",
 		"image": "/assets/images/projects/summr.png",
 		"url": "https://summr.io/"
+	},
+	{
+		"name": "Medium AI Reviewer",
+		"description": "Authors can now use AI to review Medium Drafts",
+		"image": "/assets/images/robot-review.jpg",
+		"url": "/medium-ai-reviewer"
 	}
 ]

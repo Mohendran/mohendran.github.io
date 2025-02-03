@@ -1,24 +1,10 @@
 [
 	{
-		"dates": "Nov 2024 · Present",
-		"role": "Founder",
-		"company": "DealAmigo",
-		"description": "➔ Collaborating with B2B sales teams to gather and refine requirements. \n ➔ Developing a SaaS application using Next.js & Supabase to create a dynamic Digital Sales Room for enhancing Lead Engagement, shortening Sales Cycle, and closing Deals Faster.",
-		"logo": "/assets/images/experiences/dealamigo.png"
-	},
-	{
 		"dates": "Jun 2023 · Oct 2024",
 		"role": "Senior Frontend Developer",
 		"company": "HappyFox",
 		"description": "➔ Collaborated with a talented team to develop innovative AI applications, including an AI Chatbot, AI Copilot, AI Writing Assistant, and AI Knowledge Base. \n ➔ Analyzed competitors, assessed their products, and partnered with stakeholders to create a SaaS solution that enhances customer support.",
 		"logo": "/assets/images/experiences/happyfox.png"
-	},
-	{
-		"dates": "Jan 2022 · Apr 2023",
-		"role": "Product Owner",
-		"company": "Maxis CRM",
-		"description": "➔ Collaborated with stakeholders and potential leads to collect requirements, conduct market research, and convert them into clear, actionable features. \n ➔ Worked with Cross-Functional Teams, including Marketing, Sales, Development, and QA, to get the Product from MVP to Launch.",
-		"logo": "/assets/images/experiences/maxiscrm.png"
 	},
 	{
 		"dates": "Feb 2020 · Jan 2022",
